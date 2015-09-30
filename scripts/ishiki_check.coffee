@@ -27,4 +27,4 @@ module.exports = (robot) ->
       when ishikiLv <= 700 then ishiki = '「悟り」'
       else                      ishiki = '「神」'
 
-    msg.send "本日の#{msg.message.user.name}さんの意識レベルは #{ishikiLv} - です！ #{ishiki}ですね！"
+    msg.send "本日の#{msg.message.user.name}さんの意識レベルは #{ishikiLv} です！ #{ishiki}ですね！"
