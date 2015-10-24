@@ -19,8 +19,7 @@
     "hubot-shipit": "^0.1.2",
     "hubot-slack": "^3.3.0",
     "hubot-youtube": "^0.1.2",
-    "underscore" : "*",
-    "hubot-docomo-dialogue" : "git://github.com/bouzuya/hubot-docomo-dialogue.git"
+    "underscore" : "*"
   },
   "engines": {
     "node": "0.10.x"
